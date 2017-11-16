@@ -5,4 +5,4 @@ Screenshot
 ![Screenshot](https://gdurl.com/NNDu)
 
 # Author
-* Partha Kar
+* [Partha Kar](http://facebook.com/partha.creativemind)
